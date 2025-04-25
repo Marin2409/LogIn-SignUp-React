@@ -1,0 +1,10 @@
+userID,username,password,clearance,created_at
+1,alice,$2b$10$UHHyTyV6NCEMVH53JDTKSuONyOdY4v/PQX1kO57hqoI4exerplwxG,T,"2025-04-24 18:55:12"
+2,bob,$2b$10$t917AmdtGIW26amnjZ3xA.4Bpwf/6gelVEvkJJRSngjUukWk0u0Hm,S,"2025-04-24 18:55:38"
+3,charlie,$2b$10$h/BL75tcTQeatrq26xcf8OeKg24oFPjZA1OOvjFpko0vfH57uIm0S,C,"2025-04-24 18:56:00"
+4,dave,$2b$10$Pnp2QekfNrJyio7wRa92MOUixcx3VCt05cDLpuX/Kth0zHs/LBefu,U,"2025-04-24 18:56:23"
+5,jose,$2b$10$18Nd/bjWsJnw9McaBcwF1eDsVdYgW2x7F3Ouh/.6wst4MU6SMNNZO,T,"2025-04-24 19:02:32"
+6,joe,$2b$10$KzQqS189brzrRZrnY/8sXOy9hfY8bp8.tZn1nDdmpXLGx9wweLTMm,U,"2025-04-24 19:06:18"
+7,lilly,$2b$10$06kmpAT19KXWDHCM7Kv9cuE91064uCgBjkCWzezFHRStbEIFWcflW,S,"2025-04-24 19:11:38"
+8,connor,$2b$10$W9mYUdaPM/fFnysb5bZJl.WDyRy1OqKAGrYdLdU0jDk2kxEkcN0B2,S,"2025-04-24 19:14:41"
+9,jack,$2b$10$Sfr4WSoBo/UZwPrl5BZrkuq563AeKSRQa6I7X2KBQfRFsEhGgminC,T,"2025-04-24 19:19:06"

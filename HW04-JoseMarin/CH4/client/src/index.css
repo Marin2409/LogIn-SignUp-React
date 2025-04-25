@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+*{
+  font-family: Outfit;
+}
+
+.custom-hover-scale:hover {
+  transform: scale(1.05);
+}
+
+.custon-shadow {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.placeholder-color {
+  color: #e0e0e0;
+  font-weight: 300;
+}
